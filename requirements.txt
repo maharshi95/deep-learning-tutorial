@@ -80,7 +80,7 @@ sip==4.19.3
 six==1.11.0
 snowballstemmer==1.2.1
 stevedore==1.27.1
-tensorflow==1.4.0
+tensorflow==1.15.0
 tensorflow-gpu==1.4.0
 tensorflow-tensorboard==0.4.0rc3
 terminado==0.6
